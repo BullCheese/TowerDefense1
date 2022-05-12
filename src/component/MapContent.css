@@ -1,0 +1,9 @@
+.mapcontent {
+    width: 1400px;
+    height: 700px;
+    position: absolute;
+    display: flex;
+    background:white;
+    align-items: center;
+    justify-content: center;
+}

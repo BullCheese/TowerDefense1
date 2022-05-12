@@ -1,0 +1,29 @@
+.gametitle {
+    display: block;
+    position: absolute;
+    top: 75px;
+    aspect-ratio: 100/1;
+    left:0px;
+    font-size: 400%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-stretch: expanded;
+    color: rgb(252, 210, 232);
+    text-shadow: 0 0 3px #c300ff;
+    z-index: 100;
+    margin:0;
+    transform: rotate(-15deg);
+    border-radius: 40px;
+    border-color: linear-gradient(rgba(255, 193, 193, 0.719),rgba(to right,247, 134, 134, 0.877));
+    border-style: double;
+    background-color: #ec33bea1;
+}
+
+.emoticon{
+    position: absolute;
+    top:-160px;
+    left:30px;
+    font-size:120px;
+    transform: rotate(-15deg);
+    z-index: 101;
+}

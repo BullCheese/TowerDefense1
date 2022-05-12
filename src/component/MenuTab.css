@@ -1,0 +1,9 @@
+.menutabcharacter{
+    position: relative;
+    top:0;
+    right:0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1rem;
+    flex: 0 0 57px;
+}

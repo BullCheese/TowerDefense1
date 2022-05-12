@@ -1,0 +1,14 @@
+.App {
+  display:flex;
+  height:100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  margin: 30px;
+}
+
+:root{
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
